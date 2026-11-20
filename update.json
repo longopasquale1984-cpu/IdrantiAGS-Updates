@@ -2,6 +2,6 @@
   "versionCode": 41,
   "versionName": "4.0.19",
   "mandatory": false,
-  "notes": "Novità versione 4.0.18:\\n• Messaggio WhatsApp senza testo tra parentesi.\\n• Etichetta camion con le stesse caratteristiche delle etichette idranti.\\n• Percorso stradale automatico sulla mappa per l’idrante selezionato dalla Home, anche dopo l’arrivo del GPS.",
+  "notes": "Novità versione 4.0.19:\\n• Nuova schermata di caricamento AGS.\\n• Barra acqua animata con percentuale da 0 a 100% in 10 secondi.\\n• Nuovo logo AGS trasparente nella Home.",
   "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.19/IdrantiAGS-4.0.19.apk"
 }
