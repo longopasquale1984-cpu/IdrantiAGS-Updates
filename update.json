@@ -2,6 +2,6 @@
   "versionCode": 42,
   "versionName": "4.0.20",
   "mandatory": false,
-  "notes": "Novità versione 4.0.19:\\n• Nuova schermata di caricamento AGS.\\n• Barra acqua animata con percentuale da 0 a 100% in 10 secondi.\\n• Nuovo logo AGS trasparente nella Home.",
+  "notes": "Novità versione 4.0.20:\\n• Schermata di caricamento adattata alle dimensioni dello smartphone senza ingrandimenti e tagli.\\n• Nuovo logo AGS e barra acqua animata con percentuale.",
   "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.20/IdrantiAGS-4.0.20.apk"
 }
