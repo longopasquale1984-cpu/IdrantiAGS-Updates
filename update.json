@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "4.0.24",
+  "versionCode": 47,
+  "versionName": "4.0.25",
   "mandatory": false,
   "notes": "Novità versione 4.0.24:\\n• Nuova barra nella Home sotto Naviga, WhatsApp e Mappa che mostra l’idrante selezionato.\\n• La barra appare solo con un idrante selezionato e scompare alla deselezione.\\n• Rimossi i pulsanti duplicati sotto la selezione.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.24/IdrantiAGS-4.0.24.apk"
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.25/IdrantiAGS-4.0.25.apk"
 }
