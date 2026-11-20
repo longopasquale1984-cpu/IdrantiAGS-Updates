@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "4.0.18",
+  "versionCode": 41,
+  "versionName": "4.0.19",
   "mandatory": false,
   "notes": "Novità versione 4.0.18:\\n• Messaggio WhatsApp senza testo tra parentesi.\\n• Etichetta camion con le stesse caratteristiche delle etichette idranti.\\n• Percorso stradale automatico sulla mappa per l’idrante selezionato dalla Home, anche dopo l’arrivo del GPS.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.18/IdrantiAGS-4.0.18.apk"
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.19/IdrantiAGS-4.0.19.apk"
 }
