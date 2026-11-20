@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "4.0.17",
+  "versionCode": 38,
+  "versionName": "4.0.16",
   "mandatory": false,
   "notes": "Novità versione 4.0.17:\\n• Selezione idrante sincronizzata tra Home e Mappa; un secondo tocco lo deseleziona.\\n• Messaggio WhatsApp riferito all’idrante più vicino per distanza stradale.\\n• Etichetta sopra il camion con via e località GPS sulla mappa.\\n• Indicazione della versione di aggiornamento e riepilogo delle novità dopo l’installazione.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.17/IdrantiAGS-4.0.17.apk"
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.16/IdrantiAGS-4.0.16.apk"
 }
