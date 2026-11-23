@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "4.0.35",
+  "versionCode": 58,
+  "versionName": "4.0.36",
   "mandatory": false,
-  "notes": "Novità versione 4.0.35:\\n• Corretto il pulsante Manuale: ora è piccolo e affiancato al pulsante aspetto.\n• Risolto il problema di sovrapposizione con logo e titolo nella schermata principale.\n• Manuale offline con 16 capitoli e ricerca, senza modifiche alle altre funzioni.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.35/IdrantiAGS-4.0.35.apk"
+  "notes": "Novità versione 4.0.36:\\n• Corretto il pulsante Manuale: ora è piccolo e affiancato al pulsante aspetto.\n• Risolto il problema di sovrapposizione con logo e titolo nella schermata principale.\n• Manuale offline con 16 capitoli e ricerca, senza modifiche alle altre funzioni.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.36/IdrantiAGS-4.0.36.apk"
 }
