@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "4.0.32",
+  "versionCode": 55,
+  "versionName": "4.0.33",
   "mandatory": false,
-  "notes": "Novità versione 4.0.32:\n• Icona del camion sulla mappa ingrandita del 20%.\n• Immagine intera senza ritagli, salvataggio locale e ripristino dell’icona originale.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.32/IdrantiAGS-4.0.32.apk"
+  "notes": "Novità versione 4.0.33:\n• All'apertura dell'app, avvisi per idranti aggiunti, modificati o eliminati.\n• Ogni avviso indica la via e il comune dell'idrante.\n• Le variazioni vengono confrontate con l'ultima sincronizzazione del dispositivo.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.33/IdrantiAGS-4.0.33.apk"
 }
