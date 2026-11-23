@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "4.0.29",
+  "versionCode": 52,
+  "versionName": "4.0.30",
   "mandatory": false,
-  "notes": "Novità versione 4.0.29:\n• Tieni premuta l’icona del camion sulla mappa per scegliere un’immagine dalla galleria.\n• Immagine intera senza ritagli, salvataggio locale e ripristino dell’icona originale.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.29/IdrantiAGS-4.0.29.apk"
+  "notes": "Novità versione 4.0.30:\n• Icona del camion GPS ingrandita del 20%, mantenendo le proporzioni.\n• Restano disponibili la personalizzazione e il ripristino dell'icona originale.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.30/IdrantiAGS-4.0.30.apk"
 }
