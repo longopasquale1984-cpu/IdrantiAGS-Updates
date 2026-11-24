@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "4.0.36",
+  "versionCode": 60,
+  "versionName": "4.0.38",
   "mandatory": false,
-  "notes": "Novità versione 4.0.36:\n• Nell'elenco Idranti, nuovi pulsanti piccoli Modifica ed Elimina accanto a ogni idrante.\n• Modifica apre direttamente la scheda dell'idrante scelto.\n• Elimina richiede una conferma prima di cancellare l'idrante.\n• La selezione degli idranti e tutte le altre funzioni restano invariate.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.36/IdrantiAGS-4.0.36.apk"
+  "notes": "Novità versione 4.0.38:\nPulsanti Naviga, WhatsApp e Mappa ingranditi del 20% sui telefoni, con spaziatura e adattamento alla larghezza dello schermo. Archivio e altre funzioni invariati.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.38/IdrantiAGS-4.0.38.apk"
 }
