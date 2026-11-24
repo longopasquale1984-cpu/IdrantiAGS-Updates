@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "4.0.41",
+  "versionCode": 64,
+  "versionName": "4.0.42",
   "mandatory": false,
-  "notes": "Novità versione 4.0.41:\n• Corretto il contatore prelievi nella schermata principale: niente sovrapposizioni.\n• Elenco idranti con maggiore spazio per comune e indirizzo.\n• Pulsanti prelievi, modifica ed eliminazione compatti.\n• Funzionalità precedenti mantenute.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.41/IdrantiAGS-4.0.41.apk"
+  "notes": "Novità versione 4.0.42:\n• Corretto il contatore prelievi nella schermata principale: niente sovrapposizioni.\n• Elenco idranti con maggiore spazio per comune e indirizzo.\n• Pulsanti prelievi, modifica ed eliminazione compatti.\n• Funzionalità precedenti mantenute.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.42/IdrantiAGS-4.0.42.apk"
 }
