@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "4.0.40",
+  "versionCode": 63,
+  "versionName": "4.0.41",
   "mandatory": false,
-  "notes": "Novità versione 4.0.40:\n• Comune in evidenza prima della via.\n• Distanze stradali più grandi e leggibili.\n• Ordinamento per distanza invariato.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.40/IdrantiAGS-4.0.40.apk"
+  "notes": "Novità versione 4.0.41:\n• Conferma ibrida WhatsApp: apertura nativa Android e conferma esplicita al ritorno; nessun conteggio per messaggi annullati.\n• Contatore per idrante e storico giornaliero, mensile, annuale e cronologico con annullati.\n• Annullamento del proprio prelievo entro cinque minuti dalla conferma, verificato da Firebase.\n• Sincronizzazione senza duplicati e recupero delle conferme dopo riapertura.\n• Regole Firebase per identità, dati immutabili e annullamenti.\n• Funzioni, archivio, grafica e aggiornamenti precedenti mantenuti.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.41/IdrantiAGS-4.0.41.apk"
 }
