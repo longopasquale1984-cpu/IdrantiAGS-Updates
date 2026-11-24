@@ -2,6 +2,6 @@
   "versionCode": 61,
   "versionName": "4.0.39",
   "mandatory": false,
-  "notes": "Novità versione 4.0.39:\nCorretta la griglia che limitava le dimensioni dei pulsanti Naviga, WhatsApp e Mappa. Pulsanti quadrati più grandi del 20% rispetto alla visualizzazione precedente, centrati e separati da 10 px. Resto invariato.",
+  "notes": "Novità versione 4.0.39:\n• Comune in evidenza prima della via.\n• Distanze stradali più grandi e leggibili.\n• Ordinamento per distanza invariato.",
   "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.39/IdrantiAGS-4.0.39.apk"
 }
