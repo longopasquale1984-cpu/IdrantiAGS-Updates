@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "4.0.48",
+  "versionCode": 71,
+  "versionName": "4.0.49",
   "mandatory": false,
-  "notes": "Novità versione 4.0.48:\n• Personalizzazione estesa a Manuale, Impostazioni e tre idranti più vicini.\n• Selezione multipla e ridimensionamento proporzionale di gruppo.\n• Camion accostato alla barra di caricamento.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.48/IdrantiAGS-4.0.48.apk"
+  "notes": "Novità versione 4.0.49:\n• Personalizzazione direttamente sulla home a schermo intero.\n• Riquadri aderenti alle immagini, esclusi i margini trasparenti.\n• Ridimensionamento proporzionale dai quattro angoli e selezione multipla.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.49/IdrantiAGS-4.0.49.apk"
 }
