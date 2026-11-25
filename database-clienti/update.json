@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "notes": "Listino con due modalità: quantità oppure tariffa oraria. Le lavorazioni orarie chiedono ore e minuti al tocco e mostrano il tempo sul pulsante. Nello storico sono visibili i metodi di pagamento, anche misti. Archivio e storico conservati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.4.apk",
-  "sha256": "dbcc7d16e0304888d969056f3a2bd263686d54d39ed88112663a7c43bf52eb09"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "notes": "Nuovo cliente con scheda completa su una pagina: dati, telefono, referenti, indirizzi e note. Salvataggio unico con prosecuzione automatica. Cliente e luogo già compilati nelle schermate successive. Duplicati risolti senza reinserire i dati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.5.apk",
+  "sha256": "5f904c587c2b46b182a5e717e8e7293cb8ba4e38f52dd262f4d687b7ca3bbde2"
 }
