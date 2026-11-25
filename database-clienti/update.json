@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "notes": "Eliminazione clienti e interventi con conferma e gestione dei dati collegati. Quantità sempre visibile sul pulsante di ogni lavorazione, evidenziazione delle voci inserite e conferma immediata senza scorrere.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.3.apk",
-  "sha256": "7328679fd78c899761dbcd22b5d38032a20994fdaf485e3e3eb88a504638ac9a"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "notes": "Listino con due modalità: quantità oppure tariffa oraria. Le lavorazioni orarie chiedono ore e minuti al tocco e mostrano il tempo sul pulsante. Nello storico sono visibili i metodi di pagamento, anche misti. Archivio e storico conservati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.4.apk",
+  "sha256": "dbcc7d16e0304888d969056f3a2bd263686d54d39ed88112663a7c43bf52eb09"
 }
