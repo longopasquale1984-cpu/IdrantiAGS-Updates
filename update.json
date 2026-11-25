@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "4.0.54",
+  "versionCode": 77,
+  "versionName": "4.0.55",
   "mandatory": false,
-  "notes": "Novità versione 4.0.54:\n• Eliminato lo spazio vuoto sotto i tre idranti più vicini; pulsanti inferiori accostati al riquadro.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.54/IdrantiAGS-4.0.54.apk"
+  "notes": "Novità versione 4.0.55:\n• Consentita la sovrapposizione degli elementi nella personalizzazione della home.\n• Mantenuti i limiti dello schermo e le zone vietate.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.55/IdrantiAGS-4.0.55.apk"
 }
