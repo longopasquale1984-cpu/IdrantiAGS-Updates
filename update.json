@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "4.0.46",
+  "versionCode": 69,
+  "versionName": "4.0.47",
   "mandatory": false,
-  "notes": "Novità versione 4.0.46:\n• Nuova icona a ingranaggio in stile cartoon per le impostazioni.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.46/IdrantiAGS-4.0.46.apk"
+  "notes": "Novità versione 4.0.47:\n• Camion sulla barra di caricamento ingrandito del 50%.\n• Personalizza home: sposta e ridimensiona i sette pulsanti con proporzioni bloccate, controllo sovrapposizioni e ripristino.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.47/IdrantiAGS-4.0.47.apk"
 }
