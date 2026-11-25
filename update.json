@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "4.0.53",
+  "versionCode": 76,
+  "versionName": "4.0.54",
   "mandatory": false,
-  "notes": "Novità versione 4.0.53:\n• Naviga, WhatsApp e Mappa accostati al riquadro dei tre idranti nella disposizione predefinita, senza sovrapposizioni.\n• Personalizzazioni salvate mantenute; Ripristina applica la nuova disposizione.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.53/IdrantiAGS-4.0.53.apk"
+  "notes": "Novità versione 4.0.54:\n• Eliminato lo spazio vuoto sotto i tre idranti più vicini; pulsanti inferiori accostati al riquadro.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.54/IdrantiAGS-4.0.54.apk"
 }
