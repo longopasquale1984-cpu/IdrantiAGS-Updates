@@ -2,6 +2,6 @@
   "versionCode": 66,
   "versionName": "4.0.44",
   "mandatory": false,
-  "notes": "Novità versione 4.0.44:\n• Pubblicazione automatica: verifica delle regole Firebase indipendente dalla versione dell’app.\n• Grafica, funzionalità e archivio idranti invariati. Nessun contatore dei prelievi.",
+  "notes": "Novità versione 4.0.44:\n• Camion personalizzato animato sopra la barra di caricamento.\n• Sfondo di caricamento personalizzabile con ritaglio, zoom, rotazione e anteprima.\n• Ripristino dello sfondo originale e salvataggio locale.",
   "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.44/IdrantiAGS-4.0.44.apk"
 }
