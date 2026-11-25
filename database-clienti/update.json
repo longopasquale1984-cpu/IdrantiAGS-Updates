@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "notes": "Prima versione Android: clienti e luoghi, appuntamenti, lavorazioni, prezzi e sconti, storico, pagamenti e promemoria.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.0.apk",
+  "sha256": "429031043395260c268f6874014d0961b21ad27f9e73bdbe6afae08c7f0176f6"
+}
