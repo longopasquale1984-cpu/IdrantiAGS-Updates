@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "notes": "Nuovo cliente, indirizzo e riferimenti in un solo inserimento con prosecuzione automatica nell’intervento. Nuovi indirizzi e più numeri nelle schede esistenti. Saldo inferiore al totale: sconto automatico con IVA ricalcolata; modalità Acconto mantiene il residuo.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.2.apk",
-  "sha256": "bd36b38dcbc319173da6ffb6c81f4653f09b79dc48a56c7e548908052ae201b3"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "notes": "Eliminazione clienti e interventi con conferma e gestione dei dati collegati. Quantità sempre visibile sul pulsante di ogni lavorazione, evidenziazione delle voci inserite e conferma immediata senza scorrere.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.3.apk",
+  "sha256": "7328679fd78c899761dbcd22b5d38032a20994fdaf485e3e3eb88a504638ac9a"
 }
