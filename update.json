@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "4.0.50",
+  "versionCode": 73,
+  "versionName": "4.0.51",
   "mandatory": false,
-  "notes": "Novità versione 4.0.50:\n• Barra di modifica mobile e richiudibile per accedere a tutta la home.\n• Riquadro dei tre idranti esteso a tutti gli elementi visibili.\n• Personalizzazione del riquadro verde dell'idrante selezionato.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.50/IdrantiAGS-4.0.50.apk"
+  "notes": "Novità versione 4.0.51:\n• Riquadro dei tre idranti aderente alle righe visibili, senza spazio vuoto.\n• Riquadro ingranaggio aderente all'icona.\n• Comandi di personalizzazione più compatti.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.51/IdrantiAGS-4.0.51.apk"
 }
