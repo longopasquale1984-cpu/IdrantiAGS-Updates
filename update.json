@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "4.0.47",
+  "versionCode": 70,
+  "versionName": "4.0.48",
   "mandatory": false,
-  "notes": "Novità versione 4.0.47:\n• Camion sulla barra di caricamento ingrandito del 50%.\n• Personalizza home: sposta e ridimensiona i sette pulsanti con proporzioni bloccate, controllo sovrapposizioni e ripristino.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.47/IdrantiAGS-4.0.47.apk"
+  "notes": "Novità versione 4.0.48:\n• Personalizzazione estesa a Manuale, Impostazioni e tre idranti più vicini.\n• Selezione multipla e ridimensionamento proporzionale di gruppo.\n• Camion accostato alla barra di caricamento.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.48/IdrantiAGS-4.0.48.apk"
 }
