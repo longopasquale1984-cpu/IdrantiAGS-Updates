@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "4.0.46",
+  "versionCode": 67,
+  "versionName": "4.0.45",
   "mandatory": false,
-  "notes": "Novità versione 4.0.46:\n• Nuova icona a ingranaggio in stile cartoon per le impostazioni.",
-  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.46/IdrantiAGS-4.0.46.apk"
+  "notes": "Novità versione 4.0.45:\n• Camion personalizzato animato sopra la barra di caricamento.\n• Sfondo di caricamento personalizzabile con ritaglio, zoom, rotazione e anteprima.\n• Ripristino dello sfondo originale e salvataggio locale.",
+  "apkUrl": "https://github.com/longopasquale1984-cpu/IdrantiAGS-Updates/releases/download/v4.0.45/IdrantiAGS-4.0.45.apk"
 }
