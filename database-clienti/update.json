@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
-  "notes": "Nuova grafica come anteprima approvata: appuntamenti puliti con sei comandi su due righe e menu Altro; riepilogo fisso Totale/Ricevuto/Residuo/Salva nell’intervento; sezioni IVA e sconto, foto e note espandibili; lavorazioni compatte e icone navigazione. Tutte le funzioni precedenti mantenute.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.20.apk",
-  "sha256": "c2ac6027a4af7348f0e633e8ff9a13d78945fec1ed4e3785043be034eceebe50"
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "notes": "Correzioni: nel menu appuntamento resta solo Elimina; Altro si espande nella scheda senza essere tagliato; tipi di lavoro in una riga orizzontale scorrevole senza sovrapposizioni.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.21.apk",
+  "sha256": "0b7de7579accf81dcb7a306caa9ce524351824f4833cf3c88d7be0343b77fd7a"
 }
