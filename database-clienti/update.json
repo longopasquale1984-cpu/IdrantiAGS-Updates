@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "notes": "Lettura foto per righe separate: nome, via e paese, con controllo finale. Note a dimensione normale. Il tasto Indietro Android chiude la app.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.10.apk",
-  "sha256": "4df23cb8290325292caaeb9a9c3161f55ef14ffcf530b03ea676f797b8d75fe0"
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "notes": "Prezzo manuale di default. Pulsanti Listino e Concordato con importo visibile. Fasce totali 1, 2, 3, 4, 5 o più per fosse e Imhoff, configurabili anche negli accordi cliente. Prezzo progressivo sui pulsanti delle lavorazioni.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.11.apk",
+  "sha256": "5bd1306eed29f0bf9ea1d5c92ff3270494531d9e0d512cdd224b0022e7f35859"
 }
