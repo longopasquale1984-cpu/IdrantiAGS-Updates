@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.22",
-  "notes": "Zoom delle schermate disattivato, scala stabile anche nei moduli. Tipologie di intervento su due righe scorrevoli orizzontalmente.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.22.apk",
-  "sha256": "aa0f1a54ac5b871d4cac8b6496e6368284f5a6ba6676a57c4c54a72ee9e6d2b9"
+  "versionCode": 24,
+  "versionName": "1.0.23",
+  "notes": "Schermata Oggi bloccata lateralmente: scorrimento orizzontale consentito solo nei pannelli dedicati. Tipologie intervento su tre righe con pulsanti ridotti del 50%.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.23.apk",
+  "sha256": "15b499b5190995b9b1ceeee84976cbd30956381e6fa478793669da4be39b04cd"
 }
