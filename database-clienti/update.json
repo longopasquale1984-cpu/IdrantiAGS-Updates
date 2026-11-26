@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "notes": "Rimosso Importo libero: senza Listino o Concordato il totale viene dal Pagamento ricevuto IVA inclusa. Agenda e storico scorrono come pagine affiancate seguendo il dito, con ritorno o completamento al rilascio.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.19.apk",
-  "sha256": "bf10d39264a03d83c5020294efa895c6ae6fbcaaca3dc9c86341224fe0daa00d"
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "notes": "Nuova grafica come anteprima approvata: appuntamenti puliti con sei comandi su due righe e menu Altro; riepilogo fisso Totale/Ricevuto/Residuo/Salva nell’intervento; sezioni IVA e sconto, foto e note espandibili; lavorazioni compatte e icone navigazione. Tutte le funzioni precedenti mantenute.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.20.apk",
+  "sha256": "c2ac6027a4af7348f0e633e8ff9a13d78945fec1ed4e3785043be034eceebe50"
 }
