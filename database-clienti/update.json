@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "notes": "Nuovo cliente con scheda completa su una pagina: dati, telefono, referenti, indirizzi e note. Salvataggio unico con prosecuzione automatica. Cliente e luogo già compilati nelle schermate successive. Duplicati risolti senza reinserire i dati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.5.apk",
-  "sha256": "5f904c587c2b46b182a5e717e8e7293cb8ba4e38f52dd262f4d687b7ca3bbde2"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "notes": "Un solo riquadro per cliente, con tutti i luoghi nella scheda. Stima in km stradali e minuti dalla posizione, senza chiavi, tramite OpenStreetMap/OSRM. GPS salvabile per ogni luogo. Stime indicative senza traffico; archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.6.apk",
+  "sha256": "1c3cc707d3cce3a29b73b56885c02fa80b8c9f0e58fb8c2667ed03cded2fbe1b"
 }
