@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "notes": "Pulsanti lavorazioni compatti su una sola riga scorrevole. Aggiornamento basato sulla vera 1.0.13 pubblicata: mantenute tutte le funzioni, prezzi, minimo listino, IVA, storico e scorrimento date.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.15.apk",
-  "sha256": "7f222df575d8ced1b2bd665607b085cf66bd340427a58c47933d4b1d2652c152"
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "notes": "Corretta la sovrapposizione di tempo e quantità nei pulsanti lavorazioni: etichette contenute nel pulsante e riga scorrevole. Mantenute tutte le funzioni della 1.0.13.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.16.apk",
+  "sha256": "eb1169754005c105c005cea4b5887e4d0d46469eee99e87ae1b0c62aeed4840e"
 }
