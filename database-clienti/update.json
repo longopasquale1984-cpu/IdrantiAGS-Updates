@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "notes": "Note intervento evidenziate. Ricerca cliente fotografando un foglio o scegliendo un’immagine dalla galleria. OCR locale con selezione riquadro e verifica del testo; se non trova corrispondenze apre la nuova scheda con i dati letti.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.9.apk",
-  "sha256": "a31952feda39b9ca9f37f75733cc324fd8622378e76fabc7a9412b50b2e16968"
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "notes": "Lettura foto per righe separate: nome, via e paese, con controllo finale. Note a dimensione normale. Il tasto Indietro Android chiude la app.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.10.apk",
+  "sha256": "4df23cb8290325292caaeb9a9c3161f55ef14ffcf530b03ea676f797b8d75fe0"
 }
