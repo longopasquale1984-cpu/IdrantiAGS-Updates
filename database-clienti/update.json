@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "notes": "Prezzo manuale di default. Pulsanti Listino e Concordato con importo visibile. Fasce totali 1, 2, 3, 4, 5 o più per fosse e Imhoff, configurabili anche negli accordi cliente. Prezzo progressivo sui pulsanti delle lavorazioni.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.11.apk",
-  "sha256": "5bd1306eed29f0bf9ea1d5c92ff3270494531d9e0d512cdd224b0022e7f35859"
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "notes": "Listino con IVA inclusa sul pulsante; prezzi concordati già IVA inclusa, senza seconda aggiunta. Indietro torna alla giornata, poi chiede conferma di uscita. Storico con calendario e frecce per cambiare giorno.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.12.apk",
+  "sha256": "248ad7a1ab5476bf43d8c3adced73275e3daee67074663e4d15f8c50c3944571"
 }
