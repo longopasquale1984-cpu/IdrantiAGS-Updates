@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "notes": "Listino con IVA inclusa sul pulsante; prezzi concordati già IVA inclusa, senza seconda aggiunta. Indietro torna alla giornata, poi chiede conferma di uscita. Storico con calendario e frecce per cambiare giorno.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.12.apk",
-  "sha256": "248ad7a1ab5476bf43d8c3adced73275e3daee67074663e4d15f8c50c3944571"
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "notes": "Minimo listino 120 euro più IVA: totale minimo 132 euro. Manuale e concordato restano liberi. Storico giornaliero senza pulsanti Cronologico/Giornaliero, con cambio data anche scorrendo a destra e sinistra.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.13.apk",
+  "sha256": "36159c8c2a636255547c8288e463a4f90d72b9290611fcf7ec33305719763a1d"
 }
