@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "notes": "Un solo riquadro per cliente, con tutti i luoghi nella scheda. Stima in km stradali e minuti dalla posizione, senza chiavi, tramite OpenStreetMap/OSRM. GPS salvabile per ogni luogo. Stime indicative senza traffico; archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.6.apk",
-  "sha256": "1c3cc707d3cce3a29b73b56885c02fa80b8c9f0e58fb8c2667ed03cded2fbe1b"
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "notes": "Elimina appuntamento anche se già annullato, conservando cliente e storico. Foto dei clienti con galleria e descrizione. Note cliente e note del luogo in evidenza. Foto salvate sul dispositivo.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.7.apk",
+  "sha256": "575f7dcd3f109abc29f91993eeaa2063dd9bb62bdc162413ae7304ad99009ec9"
 }
