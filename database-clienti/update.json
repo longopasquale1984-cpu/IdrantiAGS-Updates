@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.21",
-  "notes": "Correzioni: nel menu appuntamento resta solo Elimina; Altro si espande nella scheda senza essere tagliato; tipi di lavoro in una riga orizzontale scorrevole senza sovrapposizioni.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.21.apk",
-  "sha256": "0b7de7579accf81dcb7a306caa9ce524351824f4833cf3c88d7be0343b77fd7a"
+  "versionCode": 23,
+  "versionName": "1.0.22",
+  "notes": "Zoom delle schermate disattivato, scala stabile anche nei moduli. Tipologie di intervento su due righe scorrevoli orizzontalmente.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.22.apk",
+  "sha256": "aa0f1a54ac5b871d4cac8b6496e6368284f5a6ba6676a57c4c54a72ee9e6d2b9"
 }
