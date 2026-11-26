@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "notes": "Schermata Oggi bloccata lateralmente: scorrimento orizzontale consentito solo nei pannelli dedicati. Tipologie intervento su tre righe con pulsanti ridotti del 50%.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.23.apk",
-  "sha256": "15b499b5190995b9b1ceeee84976cbd30956381e6fa478793669da4be39b04cd"
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "notes": "Tipologie intervento più grandi: massimo 4 per riga senza scorrimento laterale. Rimosso Arrivo: stime automatiche per tutti gli appuntamenti di oggi, anche successivi. Rimossi i riquadri Pulizie in scadenza e Conti in sospeso dalla home.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.24.apk",
+  "sha256": "06cfbc443c4a43f5af532ca72b90d1a5b235bfc3a302b83a6967f7f909d8aa2b"
 }
