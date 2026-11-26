@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "notes": "Minimo listino 120 euro più IVA: totale minimo 132 euro. Manuale e concordato restano liberi. Storico giornaliero senza pulsanti Cronologico/Giornaliero, con cambio data anche scorrendo a destra e sinistra.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.13.apk",
-  "sha256": "36159c8c2a636255547c8288e463a4f90d72b9290611fcf7ec33305719763a1d"
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "notes": "Pulsanti lavorazioni compatti su una sola riga scorrevole. Aggiornamento basato sulla vera 1.0.13 pubblicata: mantenute tutte le funzioni, prezzi, minimo listino, IVA, storico e scorrimento date.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.15.apk",
+  "sha256": "7f222df575d8ced1b2bd665607b085cf66bd340427a58c47933d4b1d2652c152"
 }
