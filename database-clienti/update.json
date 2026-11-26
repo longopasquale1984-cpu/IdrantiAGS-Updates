@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.18",
-  "notes": "Nascosti i dettagli tecnici sotto la stima arrivo: restano distanza, minuti, arrivo e avviso ritardo. Rimossi Fotografa foglio e Immagine da galleria per OCR cliente. Foto degli interventi mantenute.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.18.apk",
-  "sha256": "46400cb86c5876791416af8fb0657fe3177a8e6bd660d5fe9bbc573f8f3ae315"
+  "versionCode": 20,
+  "versionName": "1.0.19",
+  "notes": "Rimosso Importo libero: senza Listino o Concordato il totale viene dal Pagamento ricevuto IVA inclusa. Agenda e storico scorrono come pagine affiancate seguendo il dito, con ritorno o completamento al rilascio.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.19.apk",
+  "sha256": "bf10d39264a03d83c5020294efa895c6ae6fbcaaca3dc9c86341224fe0daa00d"
 }
