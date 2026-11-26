@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "notes": "Elimina appuntamenti anche se già annullati, conservando cliente e storico. Foto cliente con descrizione e galleria. Note evidenziate. Protezione delle foto appena importate durante la modifica della scheda cliente.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.8.apk",
-  "sha256": "07336cc0dcd8d2dbc6d1ae80d05b3dd27d50580c22c0379852b220b98e02608e"
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "notes": "Note intervento evidenziate. Ricerca cliente fotografando un foglio o scegliendo un’immagine dalla galleria. OCR locale con selezione riquadro e verifica del testo; se non trova corrispondenze apre la nuova scheda con i dati letti.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.9.apk",
+  "sha256": "a31952feda39b9ca9f37f75733cc324fd8622378e76fabc7a9412b50b2e16968"
 }
