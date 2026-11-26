@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "notes": "Foto negli interventi; pulsanti appuntamenti e lavorazioni su due righe; agenda giornaliera senza completati, calendario e cambio data animato anche nello storico; clienti compatti e Nuovo cliente vicino alla ricerca. Spurgo, radici, calcare, mappatura, videoispezioni e scavo: scelta ore/unità con tariffe separate. Rimosso pulsante Manuale, conservati importo libero e Pagamento ricevuto.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.17.apk",
-  "sha256": "1ef7233c9d912ca22fc8411c2fd9fa60f334c5e9890ffa0499c382600505342c"
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "notes": "Nascosti i dettagli tecnici sotto la stima arrivo: restano distanza, minuti, arrivo e avviso ritardo. Rimossi Fotografa foglio e Immagine da galleria per OCR cliente. Foto degli interventi mantenute.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.18.apk",
+  "sha256": "46400cb86c5876791416af8fb0657fe3177a8e6bd660d5fe9bbc573f8f3ae315"
 }
