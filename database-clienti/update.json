@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.29",
-  "notes": "Nuova disposizione: appuntamenti con tre azioni principali e menu Altro; completati oggi richiudibili, scheda cliente e storico più ordinati, tre scelte prezzo e pagamenti più leggibili. Nelle Impostazioni puoi tornare subito alla disposizione precedente, conservando tutti i dati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.29.apk",
-  "sha256": "f1f390840c45b3cd9e17b84df198bd90994037087e2771cfce2b21b788a6fd38"
+  "versionCode": 31,
+  "versionName": "1.0.30",
+  "notes": "Corretto il blocco di avvio della 1.0.29: Android ora carica i file necessari alla nuova disposizione e alla grafica classica. Archivio e scelta dell’aspetto conservati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.30.apk",
+  "sha256": "7749cb34f04537b1dba1400c0bf0e234aa72e3e44226bdcd90a307ffdc3fe38e"
 }
