@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.25",
-  "notes": "Home più compatta: Intervento, Agenda e Aggiungi appuntamento riuniti con etichette chiare. Schede appuntamento con sei comandi su due righe: Intervento, Maps, Chiama, Storico, Modifica, Elimina. Eliminato il menu Altro e gli spazi vuoti.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.25.apk",
-  "sha256": "3fd20ef7e381e19cafdaebd7bc5974c25452fcc6a31d71f2c58fb53961652c6c"
+  "versionCode": 27,
+  "versionName": "1.0.26",
+  "notes": "Scheda cliente e storico più compatti: meno margini e spazi vuoti, comandi allineati in griglia, calendario e ricerca compatti. Rimosso il pulsante Nuovo intervento dallo storico.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.26.apk",
+  "sha256": "e579cc143fddbaf668c0a1c01cd66608d52ad2d281028d1e108959e95120713e"
 }
