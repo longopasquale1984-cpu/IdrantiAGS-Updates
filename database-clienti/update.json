@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.30",
-  "notes": "Corretto il blocco di avvio della 1.0.29: Android ora carica i file necessari alla nuova disposizione e alla grafica classica. Archivio e scelta dell’aspetto conservati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.30.apk",
-  "sha256": "7749cb34f04537b1dba1400c0bf0e234aa72e3e44226bdcd90a307ffdc3fe38e"
+  "versionCode": 32,
+  "versionName": "1.0.31",
+  "notes": "Finanze mensili senza spese, mappa clienti con GPS salvati, ricerca doppioni, bozze automatiche e confronto con ultimo intervento del luogo. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.31.apk",
+  "sha256": "d186513d2f62c78a99ee2d3afa91956e918cbffaeedbc5593b7e29ed05ea7f87"
 }
