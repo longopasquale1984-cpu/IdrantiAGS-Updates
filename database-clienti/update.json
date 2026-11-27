@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.27",
-  "notes": "Listino e concordato: Incassa totale senza riscrivere l’importo. Pagamento manuale con sconto automatico e acconti con residuo. Fattura e gestione amministrazione mantenute. In Oggi gli arretrati restano fino al completamento; i completati sono in coda fino al giorno successivo, poi rimangono nello storico.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.27.apk",
-  "sha256": "07ac6f13fc128b34b74584fa4883a1b1f8a8e9ea64fad6e636696d67d8d0c3c3"
+  "versionCode": 29,
+  "versionName": "1.0.28",
+  "notes": "Aggiunto Elimina luogo su ogni indirizzo della scheda cliente, anche se è l’ultimo. Il luogo eliminato non compare nelle nuove selezioni. Storico, indirizzi degli interventi, pagamenti, appuntamenti e promemoria esistenti conservati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.28.apk",
+  "sha256": "f99e66e8c973f3652a23bcb47419063fb2081ab0f5f798b01e69b8e07aef66a2"
 }
