@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "notes": "Scheda cliente e storico più compatti: meno margini e spazi vuoti, comandi allineati in griglia, calendario e ricerca compatti. Rimosso il pulsante Nuovo intervento dallo storico.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.26.apk",
-  "sha256": "e579cc143fddbaf668c0a1c01cd66608d52ad2d281028d1e108959e95120713e"
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "notes": "Listino e concordato: Incassa totale senza riscrivere l’importo. Pagamento manuale con sconto automatico e acconti con residuo. Fattura e gestione amministrazione mantenute. In Oggi gli arretrati restano fino al completamento; i completati sono in coda fino al giorno successivo, poi rimangono nello storico.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.27.apk",
+  "sha256": "07ac6f13fc128b34b74584fa4883a1b1f8a8e9ea64fad6e636696d67d8d0c3c3"
 }
