@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "notes": "Tipologie intervento più grandi: massimo 4 per riga senza scorrimento laterale. Rimosso Arrivo: stime automatiche per tutti gli appuntamenti di oggi, anche successivi. Rimossi i riquadri Pulizie in scadenza e Conti in sospeso dalla home.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.24.apk",
-  "sha256": "06cfbc443c4a43f5af532ca72b90d1a5b235bfc3a302b83a6967f7f909d8aa2b"
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "notes": "Home più compatta: Intervento, Agenda e Aggiungi appuntamento riuniti con etichette chiare. Schede appuntamento con sei comandi su due righe: Intervento, Maps, Chiama, Storico, Modifica, Elimina. Eliminato il menu Altro e gli spazi vuoti.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.25.apk",
+  "sha256": "3fd20ef7e381e19cafdaebd7bc5974c25452fcc6a31d71f2c58fb53961652c6c"
 }
