@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.34",
-  "notes": "Corretta la mappa che diventava azzurra durante spostamento e zoom. Tasti Finanze, Mappa e Ricerca doppioni più compatti su una riga. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.34.apk",
-  "sha256": "f8ce8023a27f6d6cb34e14e4a45a83e1c32b2d8aaec964a3b354797a222e6df0"
+  "versionCode": 36,
+  "versionName": "1.0.35",
+  "notes": "Tolti i pulsanti sulla mappa e alleggerito lo zoom con le dita. Indietro Android torna alle schermate precedenti, fino a Oggi, conservando filtri e date. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.35.apk",
+  "sha256": "4f89ee8a97c49d904f46b8535d3894aaef69cef50c23a69b10010b0e501c042a"
 }
