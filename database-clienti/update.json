@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.33",
-  "notes": "Mappa a pieno schermo: spostamento e zoom con le dita, tua posizione in tempo reale con precisione e pulsante per ricentrarti. Clienti posizionati tramite indirizzo. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.33.apk",
-  "sha256": "5c010dbbccd9491bd1db262e717d5ebc2a8c2c56d3424a2cf7865a87e357090f"
+  "versionCode": 35,
+  "versionName": "1.0.34",
+  "notes": "Corretta la mappa che diventava azzurra durante spostamento e zoom. Tasti Finanze, Mappa e Ricerca doppioni più compatti su una riga. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.34.apk",
+  "sha256": "f8ce8023a27f6d6cb34e14e4a45a83e1c32b2d8aaec964a3b354797a222e6df0"
 }
