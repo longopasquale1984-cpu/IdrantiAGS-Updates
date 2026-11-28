@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.38",
-  "notes": "Le 14 nuove tipologie con icone e colori abbinati nell’elenco e sulla mappa. Ruoli dei contatti aggiornati. Vecchie categorie generiche conservate nel filtro Da riclassificare, senza assegnazioni automatiche. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.38.apk",
-  "sha256": "68098d042264f5cfff0e61efd29aab75d08ab015419f6f54dc41cb1993fdf7a1"
+  "versionCode": 40,
+  "versionName": "1.0.39",
+  "notes": "Aggiunta tipologia B&B con icona casetta con letto nell’elenco e sulla mappa, filtro dedicato e ruoli Titolare, Gestore, Referente pulizie, Referente. Ora 15 tipologie. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.39.apk",
+  "sha256": "3b2eda0bbaf9580e7875a879840d5d25b0838af8736cd36066ca7c2393558b92"
 }
