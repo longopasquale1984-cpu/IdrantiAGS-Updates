@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.35",
-  "notes": "Tolti i pulsanti sulla mappa e alleggerito lo zoom con le dita. Indietro Android torna alle schermate precedenti, fino a Oggi, conservando filtri e date. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.35.apk",
-  "sha256": "4f89ee8a97c49d904f46b8535d3894aaef69cef50c23a69b10010b0e501c042a"
+  "versionCode": 37,
+  "versionName": "1.0.36",
+  "notes": "Nuovo motore mappa con zoom continuo e gestione ingrandimento massimo. Aggiunta vista Satellite. Numero totale clienti in alto e menu cliente corretto sul bordo destro. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.36.apk",
+  "sha256": "65ccd6b5cf3c6162ebb0993e1a9d0937843e319d8163f78c20b0e76544803893"
 }
