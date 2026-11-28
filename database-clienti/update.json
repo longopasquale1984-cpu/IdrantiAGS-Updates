@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.36",
-  "notes": "Nuovo motore mappa con zoom continuo e gestione ingrandimento massimo. Aggiunta vista Satellite. Numero totale clienti in alto e menu cliente corretto sul bordo destro. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.36.apk",
-  "sha256": "65ccd6b5cf3c6162ebb0993e1a9d0937843e319d8163f78c20b0e76544803893"
+  "versionCode": 38,
+  "versionName": "1.0.37",
+  "notes": "Tipologia dei luoghi con icone abbinate nell’elenco e sulla mappa, filtro tipologie e contatti con ruoli. Amministratori e altri recapiti riutilizzabili su più luoghi. Archivio esistente conservato, tipologie precedenti Non specificato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.37.apk",
+  "sha256": "860a5f6fee04d227c92e8c01770587a4cf4cb7787487e35cb9ef7dc292f67ec2"
 }
