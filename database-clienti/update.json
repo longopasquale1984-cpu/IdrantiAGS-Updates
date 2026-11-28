@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.42",
-  "notes": "Nuovo stile 3D morbido: icone navigazione e impostazioni, superfici, pulsanti, schede e ombre. Funzioni, disposizione, dimensioni dei comandi e dati invariati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.42.apk",
-  "sha256": "85ee5cd6015c6d177d540b635569674ffcf86e0e3806182999afc09a8b4cf459"
+  "versionCode": 44,
+  "versionName": "1.0.43",
+  "notes": "Stile 3D morbido più evidente: pulsanti bombati, schede color crema, bordi arrotondati, ombre più profonde e icone in rilievo. Funzioni, disposizione e dimensioni dei comandi conservate.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.43.apk",
+  "sha256": "2cb76b3f8443ee1e5f0bb3908d34e6a6bd8e2dd72b3f77a40bbcf4355f77745f"
 }
