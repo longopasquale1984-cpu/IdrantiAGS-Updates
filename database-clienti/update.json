@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.40",
-  "notes": "Icone 3D morbide per tutte le 15 tipologie, casa di riposo con edificio, anziano e deambulatore. Nome cliente sempre visibile accanto alle icone sulla mappa. Dati conservati.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.40.apk",
-  "sha256": "9f430b5b63543d58ccc9251a75c7554a6562ff4d32972b57094488fce866dc30"
+  "versionCode": 42,
+  "versionName": "1.0.41",
+  "notes": "Mappa: icone 3D senza goccia, ingrandite a 40 px; nomi sopra le icone, testo compatto orizzontale e larghezza corretta. Dati conservati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.41.apk",
+  "sha256": "d1836832a32e5cf1feeb17b9d27fab3c2644fe64139bbea2e48bf8606b5cfcf7"
 }
