@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.31",
-  "notes": "Finanze mensili senza spese, mappa clienti con GPS salvati, ricerca doppioni, bozze automatiche e confronto con ultimo intervento del luogo. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.31.apk",
-  "sha256": "d186513d2f62c78a99ee2d3afa91956e918cbffaeedbc5593b7e29ed05ea7f87"
+  "versionCode": 33,
+  "versionName": "1.0.32",
+  "notes": "Mappa clienti corretta: posizioni ricavate automaticamente da via, civico e comune, senza GPS sul posto. Ricalcolo dopo modifica indirizzo e riprova per indirizzi non trovati. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.32.apk",
+  "sha256": "91b82275958779a9279331b70e0c53cc7a7e28b96d3e975c5eb7185b3984e361"
 }
