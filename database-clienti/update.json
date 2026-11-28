@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.39",
-  "notes": "Aggiunta tipologia B&B con icona casetta con letto nell’elenco e sulla mappa, filtro dedicato e ruoli Titolare, Gestore, Referente pulizie, Referente. Ora 15 tipologie. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.39.apk",
-  "sha256": "3b2eda0bbaf9580e7875a879840d5d25b0838af8736cd36066ca7c2393558b92"
+  "versionCode": 41,
+  "versionName": "1.0.40",
+  "notes": "Icone 3D morbide per tutte le 15 tipologie, casa di riposo con edificio, anziano e deambulatore. Nome cliente sempre visibile accanto alle icone sulla mappa. Dati conservati.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.40.apk",
+  "sha256": "9f430b5b63543d58ccc9251a75c7554a6562ff4d32972b57094488fce866dc30"
 }
