@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.37",
-  "notes": "Tipologia dei luoghi con icone abbinate nell’elenco e sulla mappa, filtro tipologie e contatti con ruoli. Amministratori e altri recapiti riutilizzabili su più luoghi. Archivio esistente conservato, tipologie precedenti Non specificato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.37.apk",
-  "sha256": "860a5f6fee04d227c92e8c01770587a4cf4cb7787487e35cb9ef7dc292f67ec2"
+  "versionCode": 39,
+  "versionName": "1.0.38",
+  "notes": "Le 14 nuove tipologie con icone e colori abbinati nell’elenco e sulla mappa. Ruoli dei contatti aggiornati. Vecchie categorie generiche conservate nel filtro Da riclassificare, senza assegnazioni automatiche. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.38.apk",
+  "sha256": "68098d042264f5cfff0e61efd29aab75d08ab015419f6f54dc41cb1993fdf7a1"
 }
