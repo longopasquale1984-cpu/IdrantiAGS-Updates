@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.32",
-  "notes": "Mappa clienti corretta: posizioni ricavate automaticamente da via, civico e comune, senza GPS sul posto. Ricalcolo dopo modifica indirizzo e riprova per indirizzi non trovati. Archivio conservato.",
-  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.32.apk",
-  "sha256": "91b82275958779a9279331b70e0c53cc7a7e28b96d3e975c5eb7185b3984e361"
+  "versionCode": 34,
+  "versionName": "1.0.33",
+  "notes": "Mappa a pieno schermo: spostamento e zoom con le dita, tua posizione in tempo reale con precisione e pulsante per ricentrarti. Clienti posizionati tramite indirizzo. Archivio conservato.",
+  "apkUrl": "https://raw.githubusercontent.com/longopasquale1984-cpu/IdrantiAGS-Updates/main/database-clienti/Database_Clienti_1.0.33.apk",
+  "sha256": "5c010dbbccd9491bd1db262e717d5ebc2a8c2c56d3424a2cf7865a87e357090f"
 }
